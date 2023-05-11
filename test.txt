@@ -1,0 +1,28 @@
+   ALGORITHM FOR THE STUDENT MANAGEMENT SYSTEM
+
+1.START
+2.enter the First name of the student.
+3. enter the Last name of the student.
+4.enter USN of the  student.
+5.enter the CGPA of the student.
+6.enter the courses registered by the student.
+7.enter the department
+8.enter the college name
+9.stop
+
+
+
+pseudocode for the reverse number using while loop
+1.  start
+2. Input a number
+3. Set the reversed number to 0
+4. While the input number is not equal to 0:
+     a. Get the rightmost digit of the input number using modulo 10
+     b. Multiply the reversed number by 10
+     c. Add the rightmost digit to the reversed number
+     d. Divide the input number by 10 and discard any remainder
+5. Output the reversed number
+6.End
+
+
+
